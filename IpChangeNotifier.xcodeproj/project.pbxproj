@@ -271,6 +271,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = K24BTHY8DH;
 				INFOPLIST_FILE = IpChangeNotifier/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.slacktime.examples.ipchangenotifier.IpChangeNotifier;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -285,6 +286,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = K24BTHY8DH;
 				INFOPLIST_FILE = IpChangeNotifier/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.slacktime.examples.ipchangenotifier.IpChangeNotifier;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -312,6 +314,7 @@
 				0E5B5CC91F1003FA00C3048D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
